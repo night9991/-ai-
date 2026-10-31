@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "墨引 · 小说 AI 工坊",
+  "short_name": "墨引",
+  "description": "用提示词搭建世界观、人物、资料库、大纲与正文的小说创作工作台。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4efe4",
+  "theme_color": "#24211b",
+  "categories": ["productivity", "books"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
